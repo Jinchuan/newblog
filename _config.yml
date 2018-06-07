@@ -1,0 +1,11 @@
+# basic options
+title: Just a test of new blog
+author: Jinchuan shi
+email: jinchuanshi86@gmail.com
+description: A wonderful site
+twitter_username: jinchuan
+github_username:  jinchuan
+
+# Build settings
+markdown: kramdown
+theme: minima
